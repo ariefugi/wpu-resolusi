@@ -1,0 +1,3 @@
+resolusi tahun ini
+- mendapatkan tim yang mau belajar git
+- belajar js dasar dan advanced, nodejs
